@@ -1,0 +1,16 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    
+}
+.productName{
+    color: blue;
+    font-weight: 400;
+}
+.nameBtn{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid darkviolet;
+    border-radius: 5px;
+}
